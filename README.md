@@ -8,7 +8,7 @@ Com o objetivo de facilitar a visualização do consumo de energia de aparelhos 
 Ao iniciar o programa, o usuário deve informar o **nome do aparelho**, sua **potência em watts (W)** e a **quantidade de horas de uso por dia**. Após a validação dos dados inseridos, o **programa exibe o consumo mensal estimado em kWh e o custo mensal correspondente**.
 
 
-> [!TIP]
+> [!FÓRMULAS UTILIZADAS]
 > *Explore the full collection on the website →* [awesome-copilot.github.com](https://awesome-copilot.github.com)
 >
 > The website offers full-text search and filtering across hundreds of resources, plus the [Learning Hub](https://awesome-copilot.github.com/learning-hub) for guides and tutorials.
