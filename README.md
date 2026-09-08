@@ -1,5 +1,5 @@
 # ⚡ Calculadora de Consumo Elétrico Inteligente!
-[[(https://img.shields.io/badge/github-project-blue?logo=github) (https://img.shields.io/badge/python-language-blue?logo=python)]](https://img.shields.io/badge/github-project-blue?logo=github)
+ https://img.shields.io/npm/v/npm.svg?logo=nodedotjs
 
 ## 🎯 Propósito
 Com o objetivo de facilitar a visualização do consumo de energia de aparelhos eletrônicos e estimar os custos gerados por sua utilização, este projeto em Python apresenta uma calculadora capaz de **calcular automaticamente o consumo mensal de energia (em kWh) e o custo mensal** correspondente.
