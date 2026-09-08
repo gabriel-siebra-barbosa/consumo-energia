@@ -9,12 +9,12 @@ Ao iniciar o programa, o usuário deve informar o **nome do aparelho**, sua **po
 
 
 > [!Important]
-> Fórmulas utilizadas:
+> *Fórmulas utilizadas:*
 > 
-> Cálculo do gasto mensal:
+> **Cálculo do gasto mensal:**
 >**(potência × horas de uso por dia × 30) ÷ 1000**
 > 
-> Custo mensal:
+> **Custo mensal:**
 >**consumo mensal × tarifa**
 >(Para este projeto, foi considerada uma tarifa fixa de R$ 0,90 por kWh consumido).
 
