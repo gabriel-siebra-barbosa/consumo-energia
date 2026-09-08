@@ -9,8 +9,11 @@ Ao iniciar o programa, o usuário deve informar o **nome do aparelho**, sua **po
 
 
 > [!Important]
-> *Explore the full collection on the website →* [awesome-copilot.github.com](https://awesome-copilot.github.com)
->
-> The website offers full-text search and filtering across hundreds of resources, plus the [Learning Hub](https://awesome-copilot.github.com/learning-hub) for guides and tutorials.
->
-> *Using this collection in an AI agent?* A machine-readable [llms.txt](https://awesome-copilot.github.com/llms.txt) is available with structured listings of all agents, instructions, and skills.
+> Fórmulas utilizadas 
+> Cálculo do gasto mensal:
+>**(potência × horas de uso por dia × 30) ÷ 1000**
+> 
+> Custo mensal:
+>**consumo mensal × tarifa**
+>(Para este projeto, foi considerada uma tarifa fixa de R$ 0,90 por kWh consumido).
+
